@@ -1,4 +1,6 @@
 // here we will write our react code
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const parent = React.createElement(
   // parent is a object and just a react element
@@ -24,3 +26,5 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
 
 // React Element is nothing but a normal js object it has something known as props - props are children and the the attributes that we have passed to the react element .
+
+// react element is nothing but a normal js object and this becomes an html element that will be rendered on the browser webpage .

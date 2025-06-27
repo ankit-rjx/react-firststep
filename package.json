@@ -1,0 +1,28 @@
+{
+  "name": "react-firststep",
+  "version": "1.0.0",
+  "description": "this is learn by doing",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-rjx/react-firststep.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ankit Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit-rjx/react-firststep/issues"
+  },
+  "homepage": "https://github.com/ankit-rjx/react-firststep#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
